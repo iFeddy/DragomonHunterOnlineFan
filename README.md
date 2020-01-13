@@ -1,4 +1,5 @@
 # DragomonHunterFan #
+<p align="center"><img src="http://web.archive.org/web/20151106130942im_/http://www.dragomonhunterfan.com/resources/images/logo2.png"></p>
 
 * Pagina Web: www.dragomonhunterfan.com
 * Tipo: PHP
