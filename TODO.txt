@@ -1,0 +1,9 @@
+Optimizar Imagenes.-
+Agregar pagina 404.-
+Pasar ItemViews a tabla nueva (Evitar resetear al actualizar db)
+
+
+//Blog Post
+Agregar Imagen del Post (Mini y Grande)
+Agregar Archivos de Posts
+Agregar Categorias
